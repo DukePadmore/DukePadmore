@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Duke</h1>
 <h3 align="center">A front-end developer based in Montréal, Canada</h3>
 
