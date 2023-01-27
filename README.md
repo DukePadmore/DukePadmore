@@ -1,4 +1,4 @@
-<h1>Hi there 👋🏾 Welcome to my GitHub profile !</h1>
+#Hi there 👋🏾 Welcome to my GitHub profile !
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=My+name+is+Duke.;I'm+a+front-end+developer;based+in+Montréal,+Canada.;)](https://git.io/typing-svg)
 
@@ -26,4 +26,6 @@
 ## Contact me  💬
 
 <a href="https://www.linkedin.com/in/dukepadmore/" target="_blank"><img src="assets/linkedin.svg" alt="LinkedIn" width="40"></a>
+
+
 <a href="mailto:dukepadmore@gmail.com"><img src="assets/gmail.svg" alt="Gmail" width="40"></a>
