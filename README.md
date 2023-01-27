@@ -25,5 +25,5 @@
 
 ## Contact me  💬
 
-<a href="https://www.linkedin.com/in/dukepadmore/" target="_blank"><img src="assets/linkedin.png" alt="LinkedIn" width="40"></a>
-<a href="mailto:dukepadmore@gmail.com"><img src="assets/gmail.png" alt="Gmail" width="40"></a>
+<a href="https://www.linkedin.com/in/dukepadmore/" target="_blank"><img src="assets/linkedin.svg" alt="LinkedIn" width="40"></a>
+<a href="mailto:dukepadmore@gmail.com"><img src="assets/gmail.svg" alt="Gmail" width="40"></a>
