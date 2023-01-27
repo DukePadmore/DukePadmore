@@ -2,8 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=My+name+is+Duke.;I'm+a+front-end+developer;based+in+Montréal,+Canada.;)](https://git.io/typing-svg)
 
-## My technical stack
-### Front-End
+## Technical stack 💻
+### Front-End 
 
 ### Back-End
 
