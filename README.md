@@ -2,6 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=My+name+is+Duke.;I'm+a+front-end+developer;based+in+Montréal,+Canada.;)](https://git.io/typing-svg)
 
+## About me 
+
+<p>I am a JavaScript developer</p>
+  
 ## Technical stack  💻
 ### Front-End
 
