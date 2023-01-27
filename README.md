@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋🏾 Welcome to my GitHub profile !</h1>
+<h1>Hi there 👋🏾 Welcome to my GitHub profile !</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=My+name+is+Duke;I'm+a+front-end+developer;based+in+Montréal,+Canada;)](https://git.io/typing-svg)
 
