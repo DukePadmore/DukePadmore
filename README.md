@@ -2,9 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=My+name+is+Duke.;I'm+a+front-end+developer;based+in+Montréal,+Canada.;)](https://git.io/typing-svg)
 
-## About me 
+## About me ✨
 
 <p>I am a JavaScript developer who has a passion for front-end development. Ever since my career change in 2022, I have been trying to hone my skills and stay in a constant learning process: lately, I've been learning TypeScript.</p>
+<p>I am also an avid basketball player, and I love movies, music and learning new languages (I am currently learning Japanese).</p>
 
   
 ## Technical stack  💻
