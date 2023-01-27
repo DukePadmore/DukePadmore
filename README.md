@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Duke</h1>
+<h1 align="center">Hi there 👋🏾 Welcome to my GitHub profile !</h1>
 <h3 align="center">A front-end developer based in Montréal, Canada</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=My+name+is+Duke;I'm+a+front-end+developer;based+in+Montréal;)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning **TypeScript**
 
