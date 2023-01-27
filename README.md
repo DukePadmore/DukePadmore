@@ -1,6 +1,6 @@
 <h1>Hi there 👋🏾 Welcome to my GitHub profile !</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=My+name+is+Duke;I'm+a+front-end+developer;based+in+Montréal,+Canada;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=My+name+is+Duke.;I'm+a+front-end+developer;based+in+Montréal,+Canada.;)](https://git.io/typing-svg)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -23,6 +23,7 @@
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## Contact me  💬
+
+<a href="https://www.linkedin.com/in/dukepadmore/" target="_blank"><img src="assets/linkedin.png" alt="LinkedIn" width="40"></a>
+<a href="mailto:dukepadmore@gmail.com"><img src="assets/gmail.png" alt="Gmail" width="40"></a>
