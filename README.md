@@ -4,7 +4,7 @@
 
 ## About me ✨
 
-<p>I am a JavaScript developer who has a passion for front-end development. Ever since my career change in 2022, I have been trying to hone my skills and stay in a constant learning process: lately, I've been focusing on GSAP.</p>
+<p>I am a JavaScript developer who has a passion for front-end development. Ever since my career change in 2022, I have been honing my skills and I've stayed in a constant learning process: lately, I've been focusing on GSAP.</p>
 <p>I am also an avid basketball player, and I love movies, music and learning new languages (I am currently learning Japanese).</p>
 
   
